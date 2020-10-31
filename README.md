@@ -3,7 +3,7 @@
 
 <h3>  About Me!</h3>
 
-  🙋🏻‍♂️ &nbsp; Exploring new technologies, automate tasks and share knowledge.  
+  🙋🏻‍♂️ &nbsp; Passionate about Linux, IT Infrastruture and Automation tasks  
   💼 &nbsp; Working as a Infrastructure Analyst at [Órama Investimentos](https://www.orama.com.br/).
 
 <h3>⚙️ Stack</h3>
@@ -21,7 +21,7 @@
   🤖 &nbsp; Tecnology. 
   :running: Running
   ☕ &nbsp; Coffe 
-  🚙 &nbsp; Cars.    
+  🚙 &nbsp; Cars   
 <br/>
 
 [![Bernard Luz GitHub Stats](https://github-readme-stats.vercel.app/api?username=bernardalvares&show_icons=true)](https://github.com/bernardalvares)
