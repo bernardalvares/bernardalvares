@@ -1,9 +1,8 @@
 
 
-### I am Bernard Álvares!
+## I am Bernard Álvares			
 
-
-### About Me
+### About Me!
 🙋🏻‍♂️   Exploring new technologies, automate tasks and share knowledge.
 :briefcase:   Working as DevOps Engineer at [Órama Investimentos](https://www.orama.com.br/)
 
