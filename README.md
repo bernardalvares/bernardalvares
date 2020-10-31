@@ -9,7 +9,7 @@ briefcase   Working as DevOps Engineer at [Órama Investimentos](https://www.ora
 
 
 
-:gear Stack
+:gear: Stack
 computer   ~ Linux ● Docker ● K8s ● Ansible ● Terraform ● Packer ~
 star   ~ Ubuntu ● VsCode ● Terminator ● Vim ● ZSH ~
 
