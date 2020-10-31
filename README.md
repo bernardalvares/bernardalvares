@@ -19,7 +19,7 @@
 <h3>🤩 Passions:</h3>
   
   🤖 &nbsp; Tecnology. 
-  :running: Running & Jogging
+  :running: Running
   ☕ &nbsp; Coffe 
   🚙 &nbsp; Cars.    
 <br/>
