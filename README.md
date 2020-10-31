@@ -5,7 +5,7 @@
 
 ### About Me
 🙋🏻‍♂️   Exploring new technologies, automate tasks and share knowledge.
-briefcase   Working as DevOps Engineer at [Órama Investimentos](https://www.orama.com.br/)
+:briefcase:   Working as DevOps Engineer at [Órama Investimentos](https://www.orama.com.br/)
 
 
 
