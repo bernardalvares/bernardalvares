@@ -19,7 +19,7 @@
 <h3>🤩 Passions:</h3>
   
   🤖 &nbsp; Tecnology.  
-  ☕ &nbsp; Coffe, much!  
+  ☕ &nbsp; Coffe 
   🚙 &nbsp; Cars.  
   🚴🏻‍♂️ &nbsp; Bicycle and Dark Mode!◼️  
 <br/>
