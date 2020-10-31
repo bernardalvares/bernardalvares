@@ -5,7 +5,7 @@
 
 <h3> 🙋🏻‍♂️  About Me!</h3>
 
-   Passionate about IT Infrastructure, Linux & automate tasks ~ 
+     Passionate about IT Infrastructure, Linux & automate tasks ~ 
   💼 &nbsp; Working as a Infrastructure Analyst at ~ [Órama Investimentos](https://www.orama.com.br/)
 
 <h3>⚙️ Stack</h3>
@@ -15,7 +15,7 @@
 
 <h3>🛠️ Projects:</h3>
 
-  🐧 &nbsp; DevOps Daily ~ [@devops.daily](https://www.devopsdaily.com.br/@devops.daily)
+  🐧 &nbsp; DevOps Daily ~ [@devops.daily](@devops.daily)
 
 
 <h3>🤩 Passions:</h3>
