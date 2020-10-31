@@ -1,5 +1,5 @@
 <div align="center">
-<h2>I'm Bernard ÁLvares</h2>
+<h2>I'm Bernard Álvares</h2>
 
 <h3>  About Me!</h3>
 
@@ -18,10 +18,10 @@
 
 <h3>🤩 Passions:</h3>
   
-  🤖 &nbsp; Tecnology.  
+  🤖 &nbsp; Tecnology. 
+  :running: Running & Jogging
   ☕ &nbsp; Coffe 
-  🚙 &nbsp; Cars.  
-  🚴🏻‍♂️ &nbsp; Bicycle and Dark Mode!◼️  
+  🚙 &nbsp; Cars.    
 <br/>
 
 [![Bernard Luz GitHub Stats](https://github-readme-stats.vercel.app/api?username=bernardalvares&show_icons=true)](https://github.com/bernardalvares)
