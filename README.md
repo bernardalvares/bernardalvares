@@ -1,14 +1,15 @@
-### Hi there 👋
 
-I am Bernard Alvares!
+
+                                                                           ##### I am Bernard Alvares!
 
 
 ### About Me!
 🙋🏻‍♂️   Exploring new technologies, automate tasks and share knowledge.
 briefcase   Working as DevOps Engineer at [Órama Investimentos](https://www.orama.com.br/)
-.
 
-### Stack
+
+
+                                                                                 :gear ### Stack
 computer   ~ Linux ● Docker ● K8s ● Ansible ● Terraform ● Packer ~
 star   ~ Ubuntu ● VsCode ● Terminator ● Vim ● ZSH ~
 
