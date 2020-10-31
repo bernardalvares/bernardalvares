@@ -13,10 +13,10 @@ briefcase   Working as DevOps Engineer at [Órama Investimentos](https://www.ora
 computer   ~ Linux ● Docker ● K8s ● Ansible ● Terraform ● Packer ~
 star   ~ Ubuntu ● VsCode ● Terminator ● Vim ● ZSH ~
 
-hammer_and_wrench Projects:
-penguin   DevOps Daily ~ @devops.daily
+:hammer_and_wrench: Projects:
+penguin   [DevOps Daily](https://www.devopsdaily.com.br/) ~ @devops.daily
 
-star_struck Passions:
+:star_struck Passions:
 family_man_woman_girl   Family.
 robot   Tecnology.
 coffee   Coffe, much!
