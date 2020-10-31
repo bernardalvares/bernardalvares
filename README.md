@@ -1,25 +1,29 @@
+<div align="center">
+<h2>I'm Bernard Álvares!</h2>
+
+<a href="https://www.devopsdaily.com.br">
+
+<h3>  About Me!</h3>
+
+  🙋🏻‍♂️ &nbsp; Passionate about IT Infrastructure, Linux & automate tasks.  
+  💼 &nbsp; Working as a Infrastructure Analyst at [Órama Investimentos](https://www.orama.com.br/).
+
+<h3>⚙️ Stack</h3>
+
+  💻 &nbsp; ~ Linux ● Jenkins ● K8s ● Ansible ● Terraform ● Docker ~  
+  ⭐ &nbsp; ~ Ubuntu ● VsCode ● TILIX ● Vim ● ZSH   ~
+
+<h3>🛠️ Projects:</h3>
+
+  🐧 &nbsp; DevOps Daily ~ [@devops.daily](https://www.devopsdaily.com.br/@devops.daily)
 
 
-## I am Bernard Álvares			
+<h3>🤩 Passions:</h3>
 
-### About Me!
-🙋🏻‍♂️   Exploring new technologies, automate tasks and share knowledge.
-:briefcase:   Working as DevOps Engineer at [Órama Investimentos](https://www.orama.com.br/)
-
-
-
-:gear: Stack
-computer   ~ Linux ● Jenkins ● Kubernetes ● Ansible ● Terraform ● Packer ~
-:star:   ~ Ubuntu ● VsCode ● Terminator ● Vim ● ZSH ~
-
-:hammer_and_wrench: Projects:
-:penguin:   [DevOps Daily](https://www.devopsdaily.com.br/) ~ [@devops.daily](https://www.instagram/devopsdaily.com/)
-
-:star_struck: Passions:
-robot   Tecnology.
-coffee   Coffe, much!
-blue_car   Cars.
-🚴🏻‍♂️   Bicycle and Black screen!black_medium_square
+  🤖 &nbsp; Tecnology.    
+  🚙 &nbsp; Cars.  
+  🚴🏻‍♂️ &nbsp; Bicycle and Dark Mode!◼️  
+<br/>
 
 
 
