@@ -13,7 +13,7 @@ computer   ~ Linux ● Jenkins ● Kubernetes ● Ansible ● Terraform ● Pack
 :star:   ~ Ubuntu ● VsCode ● Terminator ● Vim ● ZSH ~
 
 :hammer_and_wrench: Projects:
-penguin   [DevOps Daily](https://www.devopsdaily.com.br/) ~ @devops.daily
+:penguin:   [DevOps Daily](https://www.devopsdaily.com.br/) ~ [@devops.daily](https://www.instagram/devopsdaily.com/)
 
 :star_struck: Passions:
 robot   Tecnology.
