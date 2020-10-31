@@ -3,9 +3,9 @@
 I am Bernard Alvares!
 
 
-About Me!
+### About Me!
 🙋🏻‍♂️   Exploring new technologies, automate tasks and share knowledge.
-briefcase   Working as a SRE/DevOps at Órama Investimentos.
+briefcase   Working as DevOps Engineer at Órama Investimentos.
 
 gear Stack
 computer   ~ Linux ● Docker ● K8s ● Ansible ● Terraform ● Packer ~
