@@ -3,10 +3,10 @@
 
 <a href="https://www.devopsdaily.com.br">
 
-<h3>  About Me!</h3>
+<h3> 🙋🏻‍♂️  About Me!</h3>
 
-  🙋🏻‍♂️ &nbsp; Passionate about IT Infrastructure, Linux & automate tasks.  
-  💼 &nbsp; Working as a Infrastructure Analyst at [Órama Investimentos](https://www.orama.com.br/).
+   Passionate about IT Infrastructure, Linux & automate tasks ~ 
+  💼 &nbsp; Working as a Infrastructure Analyst at ~ [Órama Investimentos](https://www.orama.com.br/)
 
 <h3>⚙️ Stack</h3>
 
