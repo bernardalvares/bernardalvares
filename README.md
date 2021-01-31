@@ -4,7 +4,7 @@
 <h3>  About Me!</h3>
 
   🙋🏻‍♂️ &nbsp; Passionate about Linux, IT Infrastruture and Automation tasks  
-  💼 &nbsp; Working as a Infrastructure Analyst at [Órama Investimentos](https://www.orama.com.br/).
+  💼 &nbsp; Working as a DevOps Enginner at [Órama Investimentos](https://www.orama.com.br/).
 
 <h3>⚙️ Stack</h3>
 
