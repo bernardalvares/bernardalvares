@@ -4,7 +4,7 @@
 <h3>  About Me!</h3>
 
   🙋🏻‍♂️ &nbsp; Passionate about Linux, IT infrastruture and automation tasks  
-  💼 &nbsp;Currently, working as a DevOps Enginner at [Órama Investimentos](https://www.orama.com.br/).
+  💼 &nbsp;Currently working as a DevOps Enginner at [Órama Investimentos](https://www.orama.com.br/).
 
 <h3>⚙️ Stack</h3>
 
@@ -18,7 +18,7 @@
 
 <h3>🤩 Passions:</h3>
   
-  🤖 &nbsp; Tecnology. 
+  🤖 &nbsp; Technology. 
   :running: Running
   ☕ &nbsp; Coffe 
   🚙 &nbsp; Cars   
