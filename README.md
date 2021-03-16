@@ -8,7 +8,7 @@
 
 <h3>⚙️ Stack</h3>
 
-  💻 &nbsp; ~ Linux ● Docker ● Kubernetes ● Ansible ● Terraform ● Jenkins ~  
+  💻 &nbsp; ~ Linux ● Docker ● Kubernetes ● Ansible ● Terraform ● AWS ~  
   ⭐ &nbsp; ~ Tilix ● ZSH ● Terminator ● Vim ● Helm  ~
 
 <h3>🛠️ Projects:</h3>
