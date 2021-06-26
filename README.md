@@ -13,7 +13,7 @@
 
 <h3>🛠️ Projects:</h3>
 
-  🐧 &nbsp; DevOps Daily ~ [@devops.daily](https://www.devopsdaily.com.br/@devops.daily)
+  🐧 &nbsp; DevOps Club ~ [@devops.club](https://www.devopsdaily.com.br/@devops.club)
 
 
 <h3>🤩 Passions:</h3>
