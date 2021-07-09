@@ -4,6 +4,7 @@
 <h3>  About Me!</h3>
 
   🙋🏻‍♂️ &nbsp; Passionate about Linux and IT Infrastruture
+  
   💼 &nbsp;Currently working as a DevOps Analyst at [Órama Investimentos](https://www.orama.com.br/).
 
 <h3>⚙️ Stack</h3>
