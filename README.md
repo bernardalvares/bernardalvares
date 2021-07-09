@@ -3,13 +3,13 @@
 
 <h3>  About Me!</h3>
 
-  🙋🏻‍♂️ &nbsp; Passionate about Linux, IT infrastruture and automation tasks  
-  💼 &nbsp;Currently working as a DevOps Enginner at [Órama Investimentos](https://www.orama.com.br/).
+  🙋🏻‍♂️ &nbsp; Passionate about Linux and IT Infrastruture
+  💼 &nbsp;Currently working as a DevOps Analyst at [Órama Investimentos](https://www.orama.com.br/).
 
 <h3>⚙️ Stack</h3>
 
-  💻 &nbsp; ~ Linux ● Docker ● Kubernetes ● Ansible ● Terraform ● AWS ~  
-  ⭐ &nbsp; ~ Tilix ● ZSH ● Terminator ● Vim ● Helm  ~
+  💻 &nbsp; ~ Linux ● Kubernetes ● AWS ● Ansible ● Terraform ● Helm ~  
+  ⭐ &nbsp; ~ Tilix ● ZSH ● Terminator ● Vim ●  ~
 
 <h3>🛠️ Projects:</h3>
 
